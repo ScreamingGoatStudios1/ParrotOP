@@ -1,0 +1,6 @@
+name: ParrotOP
+version: 1.0
+main: com.jake.parrotop.ParrotOP
+api-version: 1.16
+commands:
+  parrotop:
